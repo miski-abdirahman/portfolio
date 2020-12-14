@@ -1,0 +1,32 @@
+h1{
+  text-align: center;
+  font-family: sans-serif;
+  color: black;
+  font-size: 40px;
+}
+h2{
+  text-align: left;
+  font-family: monospace;
+  color: black;
+  font-size: 30px;
+}
+.p-text{
+  color: black;
+  font-size: 30px;
+  font-family: sans-serif;
+  text-align: left;
+}
+ul{
+  text-align: left;
+  font-style: italic;
+  font-size: 30px;
+}
+ol{
+  text-align: left;
+  font-style: italic;
+  font-size: 30px;
+}
+h5{
+  color: maroon;
+  font-size: 30px;
+}
